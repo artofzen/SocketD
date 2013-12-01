@@ -1,0 +1,1 @@
+SocketD began as an idea to implement a basic http web server on android. I have tried to adapt its architecture to make it as interchangeable as possible so that it could implement multiple protocols. It is still in its initial phase and only TCP/HTTP has been implemented as of now.
